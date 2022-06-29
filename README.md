@@ -1,5 +1,5 @@
 # I'm rich App
-![screenshot](screenshots/screenshot.jpeg)
+
 
 ### 🛠 Technologies
 
