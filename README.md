@@ -1,8 +1,14 @@
-# my_app
+# I'm rich App
+![screenshot](screenshots/screenshot.jpeg)
 
-A new Flutter project.
+### 🛠 Technologies
 
-## Getting Started
+- [Flutter](https://flutter.dev/)
+- [Dart](https://dart.dev/)
+
+
+
+### Getting Started
 
 This project is a starting point for a Flutter application.
 
