@@ -11,7 +11,7 @@ void main() {
        ),
        body: Center(
         child: Image(
-        image: AssetImage('images/ruby.png'),
+        image: AssetImage('assets/images/ruby.png'),
         ),
        ),
       ),
